@@ -23,8 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 
-./Assets/Plugins/*
-./Assets/GoogleVR/*
+/Assets/Plugins/*
 
 # Unity3D generated meta files
 *.pidb.meta
